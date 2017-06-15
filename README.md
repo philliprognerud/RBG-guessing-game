@@ -8,9 +8,9 @@ Created a color (rgb) guessing game where the player must select the correct col
 
 ## Built With
 
-* [JavaScript](https://www.javascript.com/) - Primary Language for functionality fo game
-* [CSS] - Styling of the page
-* [HTML]- Structure of the page
+* [JavaScript](https://www.javascript.com/) - Primary Language for functionality of game
+* CSS - Styling of the page
+* HTML- Structure of the page
 
 
 ## Authors
